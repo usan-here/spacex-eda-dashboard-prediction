@@ -1,4 +1,5 @@
-# SpaceX EDA Dashboard & Prediction
+# SpaceX Launch Data Analysis & Prediction Capstone
+
 
 This repository contains a comprehensive set of Jupyter notebooks, datasets, and Python scripts for performing exploratory data analysis (EDA), interactive dashboard creation, and predictive analysis on SpaceX launch data.
 
@@ -45,7 +46,7 @@ Spacex-EDA-Dashboard-Prediction/
 ### 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/Spacex-EDA-Dashboard-Prediction.git
+git clone https://github.com/usan-here/spacex-eda-dashboard-prediction.git
 ```
 
 ### 2. Navigate into the project directory:
@@ -67,11 +68,11 @@ pip install -r requirements.txt
 
 **1. Jupyter Notebooks:** Open notebooks in the notebooks/ folder to explore EDA and ML experiments.
 
-**2. Dash Dashboard:** Run python python/app.py and visit http://127.0.0.1:8050/ to explore the interactive dashboard.
+**2. Dash Dashboard:** Run python python/spacex-dash-app.py and visit http://127.0.0.1:8050/ to explore the interactive dashboard.
 
-**3. Folium Map:** Run python python/folium_map.py to generate interactive maps.
+**3. Folium Map:** Run python python/spacex-dash-app.py to generate interactive maps.
 
-**4. Predictive Models:** Use python python/ml_models.py to train and test ML models on SpaceX launch data.
+**4. Predictive Models:** Use python python/spacex-dash-app.py to train and test ML models on SpaceX launch data.
 
 
 -----------------
