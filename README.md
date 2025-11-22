@@ -70,9 +70,9 @@ pip install -r requirements.txt
 
 **2. Dash Dashboard:** Run python python/spacex-dash-app.py and visit http://127.0.0.1:8050/ to explore the interactive dashboard.
 
-**3. Folium Map:** Run python python/spacex-dash-app.py to generate interactive maps.
+**3. Folium Map:** Run notebooks/4-lab_jupyter_launch_site_location_v2.ipynb to generate interactive maps.
 
-**4. Predictive Models:** Use python python/spacex-dash-app.py to train and test ML models on SpaceX launch data.
+**4. Predictive Models:** Use  notebooks/5-SpaceX_Machine_Learning_Prediction_Part_5_v1.ipynb to train and test ML models on SpaceX launch data.
 
 
 -----------------
